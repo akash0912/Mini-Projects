@@ -1,0 +1,11 @@
+.container{
+    background-color: #eeecec;
+    margin: 0 auto;
+    font-size: 22px;
+    padding: 25px;
+}
+.parallax{
+    background-image: url('1.jpg');
+   
+   background-attachment: fixed;
+}
