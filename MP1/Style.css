@@ -13,7 +13,7 @@
     
 }
 .parallax-0 {
-    background-image: url('img/pic-0.jpg ');
+    background-image: url('img/1.jpg ');
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -36,9 +36,9 @@
 }
 
 .info{
-    font-family: 'lato';
+    font-family: 'Open Sans', sans-serif;
     margin: 0 auto;
-    width: 800px;
+    width: 1200px;
     
     text-align: center;
     padding: 50px;
@@ -50,7 +50,7 @@
 }
 
 .parallax-1{
-    background-image: url('img/pic-1.jpg') ;
+    background-image: url('img/2.jpg') ;
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -58,7 +58,7 @@
     background-size: cover;
 }
 .parallax-2{
-    background-image: url('img/pic-2.jpg') ;
+    background-image: url('img/3.jpg') ;
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -66,7 +66,7 @@
     background-size: cover;
 }
 .parallax-3{
-    background-image: url('img/pic-3.jpg') ;
+    background-image: url('img/4.jpg') ;
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -74,7 +74,7 @@
     background-size: cover;
 }
 .parallax{
-    background-image: url('img/0.jpg') ;
+    background-image: url('img/0.png') ;
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -86,7 +86,7 @@
     
     position: absolute;
     top: 150px;
-    left: 280px;
+    left: 490px;
     padding: 10px;
     font-size: 50px;
     width: max-content;
@@ -107,7 +107,7 @@
     background-color: black;
     position: relative;
     color: rgb(255, 255, 255);
-    
+    font-family: 'Open Sans', sans-serif;
     
     text-align: center;
     padding: 20px;
