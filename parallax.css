@@ -5,7 +5,7 @@
     padding: 25px;
 }
 .parallax{
-    background-image: url('1.jpg');
+    background-image: url('img/pic-0.jpg');
    
    background-attachment: fixed;
 }
